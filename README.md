@@ -1,6 +1,6 @@
 # Android App Demo Presentation
 
-E-Commerce Cosmetic AppPresentation
+E-Commerce Cosmetic App Presentation
 
 <img src="https://github.com/AtharIbrahim/E-Commerce-Cosmetic-App-Presentation/blob/main/Screenshots/Screenshot%202024-06-23%20040058.png" alt="CryptoMatrix Logo" style="width: 100%; height: 100%; margin-bottom: 20px;">
 
